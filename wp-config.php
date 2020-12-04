@@ -29,7 +29,7 @@ define( 'DB_USER', 'admin' );
 define( 'DB_PASSWORD', 'Haselko123' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'https://cuda-malowane.github.io/' );
+define( 'DB_HOST', 'cuda-malowane.github.io/phpmyadmin' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
